@@ -6,7 +6,7 @@ int main() {
     double num1, num2, result;
 
     while (1) {
-        printf("\nSimple Calculator:\n");
+        printf("\nBalaji's Calculator:\n");
         printf("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
